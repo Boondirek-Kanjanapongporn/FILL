@@ -1,0 +1,21 @@
+import 'package:flutter/material.dart';
+
+const mBackgroundColor = Color(0xFFFAFAFA);
+const mBlackColor = Color(0xFF000000);
+const mRedColor = Color(0xFF9C0000);
+const mLightRedColor = Color(0xFFcc0000);
+// const mLighterRedColor = Color(0xFFC62828);
+const mLighterRedColor = Color(0xFFEF9A9A);
+const mDarkRedColor = Color(0xFFb30000);
+const mDarkerRedColor = Color(0xFF8f0000);
+const mDarkestRedColor = Color(0xFF7d0000);
+const mBlueColor = Color(0xFF2C53B1);
+const mGreyColor = Color(0xFFB4B0B0);
+const mTitleColor = Color(0xFF23374D);
+// const mTitleColor = mDarkestRedColor;
+const mSubtitleColor = Color(0xFF8E8E8E);
+const mBorderColor = Color(0xFFE8E8F3);
+const mFillColor = Color(0xFFFFFFFF);
+// const mCardTitleColor = Color(0xFF2E4ECF);
+const mCardTitleColor = mDarkRedColor;
+const mCardSubtitleColor = mTitleColor;
